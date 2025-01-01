@@ -1,0 +1,1 @@
+Analyze Zomato data with Power BI to gain insights into customer satisfaction, delivery times, popular cuisines, and order distributions by city. Visualize data with dynamic charts and graphs to make data-driven decisions and enhance user experience.
